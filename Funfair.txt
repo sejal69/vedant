@@ -1,0 +1,21 @@
+<html>
+<head><title>Funfair</title>
+</head>
+<body>
+<h1>Funfair</h1>
+<h2>When?</h2>
+<P>14 november 2025</P>
+<h2>What fun things to do?</h2>
+<h3>Games!</h3>
+<ul>
+<li>up 7 down</li>
+<li>Lucky dip</li>
+<h3>Yummy Food!</h3>
+<ul>
+<li>Dabeli</li>
+<li>Burgur</li>
+<li>Pav Bhaji</li>
+</ul>
+<h3>Dancing!<h3>
+</body>
+</html>
